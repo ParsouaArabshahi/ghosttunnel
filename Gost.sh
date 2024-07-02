@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Download the Gost script from GitHub
 temp_dir=$(mktemp -d)
 cd "$temp_dir" || exit
